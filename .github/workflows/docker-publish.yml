@@ -36,7 +36,7 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            giswqs/leafmap
+            giswqs/gispro
             ghcr.io/${{ github.repository }}
 
       - name: Build and push Docker images
