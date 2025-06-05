@@ -37,7 +37,7 @@ jobs:
         with:
           images: |
             giswqs/gispro
-            ghcr.io/${{ github.repository }}
+            ghcr.io/giswqs/gispro
           tags: |
             type=ref,event=branch
             type=raw,value=latest
