@@ -51,3 +51,4 @@ parts:
       - file: book/geospatial/duckdb
       - file: book/geospatial/gdal
       - file: book/geospatial/solara
+      - file: book/geospatial/sedona
