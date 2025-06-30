@@ -68,6 +68,8 @@ sphinx:
         "book-toc-zh.pdf",
         "book-toc-es.pdf",
         "book-toc-ja.pdf",
+        "book-toc-fr.pdf",
+        "book-toc-ko.pdf",
       ]
     html_theme_options:
       use_download_button: true
